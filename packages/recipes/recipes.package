@@ -1,0 +1,16 @@
+id = "recipes"
+name = "Mirta's Recipes"
+type = "project"
+description = "Recolection of personal recipes"
+
+css[] = "recipes/recipes"
+css[] = "com/jquery/themes/base/jquery.ui.all"
+css[] = "com/jquery/themes/smoothness/ui.all"
+js[] = "com/jquery/jquery-ui"
+
+paths[] = "xml) sitemap.xml: recipes/portal/sitemap.xml.php"
+paths[] = "admin: Recipes's Administration"
+paths[] = "img) images: recipes/portal/images"
+paths[] = "img) admin/graphs: recipes/admin/view/graphs"
+
+scripts[] = "cron: Recipes Cron"

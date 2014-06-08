@@ -1,0 +1,5 @@
+id = "ramifip"
+type = "package"
+name = "Ramifip Framework Core Package"
+group = "Ramifip Core"
+version = "1.0"

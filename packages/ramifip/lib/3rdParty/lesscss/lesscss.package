@@ -1,0 +1,9 @@
+id = "lesscss"
+name = "LESS CSS parser"
+description = "The Dynamic Stylesheet language"
+version = "1.3.0"
+group = "Ramifip Core 3rdParty Libs"
+active = true
+
+js[] = "ramifip/lib/3rdParty/lesscss/less"
+autouse[] = "ramifip/lib/3rdParty/lesscss/lessc"

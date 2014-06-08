@@ -1,0 +1,148 @@
+/*
+ Ramifip JS GUI
+ Ramifip Cascade Style Sheet
+ All selectors have prefix "rp-"
+*/
+
+.rp-window{
+    position: fixed;
+    background: #d0d0d0;
+    z-index: 9999;
+    border: 1px solid gray;
+}
+
+.rp-window-title{
+    background: transparent;
+    color: black;
+    position: absolute;
+    padding: 2px;
+    margin: 3px;
+    top: 0px;
+    left: 0px;
+    font-weight: bold;
+}
+
+.rp-window-body{
+    background: #eeeeee;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    position: absolute;
+    top: 34px;
+    left: 4px;
+    overflow: auto;
+}
+
+.rp-window-close-button{
+    background: gray repeat-x;
+    background-position: -2px;
+    color: black;
+    padding: 1px;
+    position: absolute;
+    right: 4px;
+    top: 5px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.rp-mini-button{
+    background: gray repeat-x;
+    background-position: -2px;
+    color: black;
+    padding: 1px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.rp-button-bar{
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+    text-align: right;
+    height: 25px;
+}
+
+.rp-button{
+    background: gray repeat-x;
+    float: right;
+    height: 20px;
+    border: 0px;
+    font-weight: bold;
+    width: inherit;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    padding-top: 4px;
+}
+
+.rp-button-envolver{
+    padding: 2px;
+    float: right;
+    width: 80px;
+}
+
+.rp-tab-button{
+    height: 25px;
+    border: 0px;
+    background: gray;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.rp-tab-button:hover, .rp-tab-button-active{
+    background: repeat-x;
+}
+
+
+.rp-title{
+    font-family: Arial;
+}
+.rp-paragraph{
+    font-family: Arial;
+}
+
+
+.rp-label{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 3px;
+}
+
+.ramifip-notification{
+    padding: 5px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background: #fcefa1;
+    border: 1px solid black;
+    -moz-border-radius: 5px;
+}
+
+fieldset.rp-collapsible legend{
+	cursor: pointer;
+}
+
+fieldset.rp-collapsed{
+		height: 0px;
+		border-bottom: 0px;
+		border-left: 0px;
+		border-right: 0px;
+		padding-bottom: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+}
+
+fieldset.rp-collapsed legend{
+		border-left: 2px solid black;
+		border-right: 2px solid black;
+}

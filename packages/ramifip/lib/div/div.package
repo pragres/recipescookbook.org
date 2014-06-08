@@ -1,0 +1,7 @@
+# Div PHP Template Engine as package for Ramifip PHP Framework 
+id = "div"
+active = true
+name = "Div, PHP Template Engine"
+group = "PHP Template Engine"
+
+autouse[] = "div: ramifip/lib/div/div"

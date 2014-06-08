@@ -1,0 +1,8 @@
+id = "rpTranslator"
+name = "Ramifip Translator"
+group = "i18n"
+description = "Ramifip Internacionalization Layer"
+active = true
+type = "module"
+
+use[] = "ramifip/modules/rpTranslator/rpTranslator"

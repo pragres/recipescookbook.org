@@ -1,0 +1,2 @@
+[26-May-2014 12:00:02 UTC] PHP Strict Standards:  Declaration of rpCollection::asJSON() should be compatible with that of Object::asJSON() in /var/www/recipescookbook.org/packages/ramifip/modules/rpCore/rpCollection.php on line 83
+[28-May-2014 12:00:01 UTC] PHP Strict Standards:  Declaration of rpCollection::asJSON() should be compatible with that of Object::asJSON() in /var/www/recipescookbook.org/packages/ramifip/modules/rpCore/rpCollection.php on line 83

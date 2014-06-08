@@ -1,0 +1,26 @@
+# Ramifip Javascript GUI
+id = "rpJSGUI"
+name = "Ramifip Javascript GUI"
+description = "A javascript framework for build some GUIs"
+group = "Ramifip RIA"
+version = "1.0"
+
+js[] = "{$folder}rpJSGUI"
+js[] = "{$folder}rpJSGUI.window"
+js[] = "{$folder}rpJSGUI.tabs"
+js[] = "{$folder}rpJSGUI.overlay"
+js[] = "{$folder}rpJSGUI.modalframe"
+js[] = "{$folder}rpJSGUI.notification"
+js[] = "{$folder}rpJSGUI.checkBoxList"
+js[] = "{$folder}rpJSGUI.input"
+js[] = "{$folder}rpJSGUI.fieldsetCollapsible"
+js[] = "{$folder}rpJSGUI.validateFields"
+js[] = "{$folder}rpJSGUI.grids"
+js[] = "{$folder}rpJSGUI.checkBoxGrid"
+js[] = "{$folder}rpJSGUI.fileChooser"
+js[] = "{$folder}rpJSGUI.remoteExplorer"
+css[] = "{$folder}rpJSGUI"
+
+dependences[] = "jquery-ui"
+
+active = true

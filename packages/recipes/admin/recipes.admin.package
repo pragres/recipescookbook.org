@@ -1,0 +1,11 @@
+id = "recipes-admin"
+name = "Mirta's Recipes Administration"
+type = "application"
+description = "Administrate the Mirta Recipes Cookbook page"
+
+css[] = "admin>> recipes/admin/recipes.admin"
+js[] = "admin>> com/nicEdit/nicEdit"
+js[] = "admin>> com/jquery/jquery-ui-i18n"
+
+entry[admin] = "download/subscribelist: recipes/admin/events/subscribelist"
+entry[admin] = "download/recipes: recipes/admin/events/recipeslist"

@@ -1,0 +1,78 @@
+/*
+ Ramifip PHP Framework
+ Ramifip Cascade Style Sheet
+ All selectors have prefix "rp-"
+*/
+
+.rp-error{
+	top: 5px;
+	right: 5px;
+	padding: 3px;
+	z-index: 9999;
+	font-size: 12px;
+	font-family: sans-serif;
+	background: #eeeeee;
+	width: 600px;
+	text-align: left;
+}
+
+.rp-error-message{
+	margin: 5px;
+	padding: 5px;
+}
+
+.rp-error-FATAL{
+	background: red;
+	color: white;
+}
+
+.rp-error-WARNING{
+	background: orange;
+	color: black;
+}
+
+.rp-error-NOTICE{
+	background: yellow;
+	color: black;
+}
+.rp-code,.rp-error-context {
+	border: 1px solid gray;
+}
+.rp-code pre{
+	overflow: auto;
+	width: 550px;
+	height: 100px;
+	background: white;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+.rp-error-context{
+	overflow: auto;
+	width: 550px;
+	height: 200px;
+}
+.rp-error-context td{
+	font-size: 10px;
+	padding: 3px;
+}
+.rp-error-context th{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.rp-error-stat-value{
+	background: red; 
+	color: white;
+	padding: 3px 5px 3px 5px;
+	margin: 2px;
+}
+
+.rp-error-context tr.even{
+	background: white;
+	color: black;
+}
+.rp-error-context tr.odd{
+	background: gray;
+	color: white;
+}

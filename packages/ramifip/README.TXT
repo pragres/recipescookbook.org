@@ -1,0 +1,1 @@
+This folder contain the Ramifip Core. Don't remove this folder!

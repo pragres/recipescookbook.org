@@ -1,0 +1,14 @@
+name = "Recipes"
+metadata = "recipes/common/model/recipes.metadata"
+rdb[] = "mysql://salvi_root:UncleSalvi@127.0.0.1/salvi_mirtarecipes"
+schemas = array("public")
+create_metadata = true
+create_jsdao = false
+create_default_orm = false
+create_default_dbevents = false
+
+#objecDB settings
+
+objectdb_create_jsdao = true
+objectdb_create_orm = true
+objectdb_create_dbevents = true

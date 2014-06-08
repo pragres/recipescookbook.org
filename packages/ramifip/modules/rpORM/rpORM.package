@@ -1,0 +1,20 @@
+# Ramifip Object-Relational Mapping for PHP
+# Module of Ramifip PHP Framework
+# @version 1.0
+
+id = "rpORM"
+name = "Ramifip ORM for PHP"
+type = "module"
+description = "Ramifip ORM and ORM Generator for PHP 5"
+version = "1.0"
+
+dependences[] = "rpDBDriver"
+
+autouse[] = "rpDataCollection: {$folder}rpDataCollection"
+autouse[] = "rpDataAccess: {$folder}rpDataAccess"
+autouse[] = "rpDataTable: {$folder}rpDataTable"
+autouse[] = "rpDataTrigger: {$folder}rpDataTrigger"
+autouse[] = "rpEntity: {$folder}rpEntity"
+autouse[] = "rpORM: {$folder}rpORM"
+
+active = true

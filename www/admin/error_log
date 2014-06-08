@@ -1,0 +1,24 @@
+[28-Dec-2012 03:15:01 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[28-Dec-2012 03:15:02 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[28-Dec-2012 03:15:05 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[28-Dec-2012 03:15:08 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[28-Dec-2012 03:15:16 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:06:48 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:06:52 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:08:38 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:10:30 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:11:02 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:11:21 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:11:22 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:11:29 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:11:30 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 15:11:32 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 20:34:40 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 20:36:23 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 20:36:25 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[29-Dec-2012 20:38:39 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[05-Jan-2013 14:30:36 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[05-Jan-2013 14:31:05 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77
+[07-Feb-2013 21:36:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 523800 bytes) in /home/salvi/public_html/recipescookbook.org/packages/ramifip/modules/rpCore/rpTheme.php on line 1929
+[07-Feb-2013 21:37:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 523800 bytes) in /home/salvi/public_html/recipescookbook.org/packages/ramifip/modules/rpCore/rpTheme.php on line 1929
+[18-Feb-2013 00:43:28 UTC] PHP Fatal error:  Class 'ODBEWrongSQLSentence' not found in /home/salvi/public_html/recipescookbook.org/packages/com/pragres/objectdb/drivers/ODBConnectionMySQL.php on line 77

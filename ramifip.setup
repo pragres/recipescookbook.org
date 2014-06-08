@@ -1,0 +1,43 @@
+# --------------------------
+# Ramifip PHP Framework
+# SETUP
+# --------------------------
+
+# Runtime enviroment
+# --------------------------
+
+# The Run mode cant be a: development, debug or production 
+# 	DEVELOPMENT MODE = - OPTIMIZATION + DEBUG MESSAGES
+# 	DEBUG MODE = + OPTIMIZATION + DEBUG MESSAGES
+# 	PRODUCTION MODE = + OPTIMIZATION - DEBUG MESSAGES
+
+run_mode = "debug"
+
+# Javascript Compression Mode: "none", "hot", "precompression" or "mixed"
+#	NONE - Ramifip do not compress anything
+#   HOT - Ramifip compress the javascript when the script are used  and ignored the precomression "*.min.js" (SLOWEST)
+#   PRECOMPRESSION - Ramifip send to the browsers the precrompressed javascript files  (FASTEST)
+#   MIXED - Ramifip compress the javascript when the used script was not precompressed and send precompressed file if it exists
+#
+#   Example of test:
+#   Script                   Size       Load time
+#   ----------------------------------------------
+#   ramifip.min.js           4KB         146ms       << PRECOMPRESSION
+#   ramifip.js               9.6KB       107ms       << NONE
+#   ramifip.js&compression   4KB         283ms       << HOT
+#
+#   php.js                   160KB       240ms       << PRECOMPRESSION
+#   php.min.js               83KB        165ms       << NONE
+#   php.js&compression       83KB        2.7s        << HOT
+
+js_compression_mode = "mixed"
+
+# CSS compression
+css_compression = true
+
+
+# Security
+# -------------------------------
+
+available_hosts[] = "*"
+http_authentication[/] = false

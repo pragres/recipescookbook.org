@@ -1,0 +1,8 @@
+id = "rpAjax"
+name = "Ramifip AJAX"
+group = "Ramifip RIA"
+description = "AJAX Features for Ramifip"
+
+js[] = "ramifip/modules/rpAjax/rpAjax"
+css[] = "ramifip/modules/rpAjax/rpAjax"
+active = true

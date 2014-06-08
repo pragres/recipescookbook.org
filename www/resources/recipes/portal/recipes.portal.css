@@ -1,0 +1,469 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    background: #CCCCCC;
+}
+
+#portal{
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: 20px;*/
+    width: 1017px;
+    background: url(images/shadow.png) repeat-y transparent;
+}
+#portal-header{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 949px;
+    background: url(images/tableclothes.jpg);
+    padding: 10px;
+}
+#portal-header-content{
+    height: 340px;
+}
+#portal-recipe-header-content{
+    height: 200px;
+}
+#portal-header-left, #portal-header-right{
+    width: 450px;
+    /* height: 380px;*/
+    height: 100%;
+    display: block;
+    /*float: left;*/
+}
+
+#portal-header-left{
+    z-index: 999;
+}
+#portal-header-right{
+    z-index: 998;
+}
+
+#portal-center{
+    background: none repeat scroll 0 0 white;
+    margin-left:10px;
+    min-height: 600px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    width: 909px;
+    z-index: 1;
+}
+
+#portal-shadow{
+    background: url(images/shadow-bottom.png) repeat;
+    height: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1017px;
+}
+
+#portal-title{
+    padding-top: 8px;
+    position: absolute;
+    width: 878px;
+    z-index: 9998;
+    opacity: 0.7;
+    margin-left: -10px;
+    background: #FFCC99;
+    height: 45px;
+}
+
+#portal-title-h1{
+	font-family: rageitalic;
+	font-size: 55px;
+    position: absolute;
+    width: 878px;
+    z-index: 9999;
+    padding-left: 10px;
+}
+
+@font-face
+{
+font-family: rageitalic;
+src: url(fonts/RAGE.TTF);
+}
+
+#portal p{
+    color: black;
+    font-family: "Times New Roman";
+    font-size: standard;
+}
+
+#portal h1 {
+    color:black;
+    font-family: rageitalic;
+    font-size: 50px;
+    height:46px;
+    margin: 0px;
+}
+
+#portal h2{
+    color: black;
+    font-weight: bold;
+    font-family: rageitalic;
+    font-size: 35px;
+    margin: 0 0 0 0;
+}
+
+#portal a{
+    color: black;
+    text-decoration: underline;
+}
+
+#portal a:hover{
+    text-style: none;
+}
+
+#portal-banner{
+    /*float: left;
+    width: 500px;
+    height: 330px;
+    left: 20px;
+    text-align: center;
+    */
+}
+
+#portal-primary-link {
+    background: none repeat scroll 0 0 #FFCC99;
+    font-family: 'Monotype Corsiva';
+    font-size: 22px;
+    height: 35px;
+    margin: auto 0;
+    padding-top: 5px;
+    text-align: center;
+    width: 989px;
+    z-index: 9999;
+}
+#portal-primary-link label{
+    padding-left: 20px;
+}
+
+#portal ul{
+    list-style-image: none;
+}
+
+#portal-primary-link li{
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    list-style-image: none;
+    list-style-type: none;
+    margin: 5px;
+
+}
+
+#portal-primary-link-shadow{
+    background: url(images/portal-primary-link-shadow.png) repeat-x scroll 0 0 transparent;
+    height: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 969px;
+}
+
+#portal-primary-link-corner-tr{
+    /*border-right: 10px solid #CCCCCC;*/
+    /*border-top: 10px solid black;*/
+    width: 10px; height: 10px;
+    float: right;
+    font-size: 0;
+    line-height: 0;
+    margin-right: -10px;
+    background: url(images/tr.gif) no-repeat;
+}
+#portal-primary-link-corner-tl{
+    border-left: 10px solid #CCCCCC;
+    border-top: 10px solid black;
+    float: left;
+    font-size: 0;
+    line-height: 0;
+    margin-left: -10px;
+    width: 0;
+}
+#portal-footer{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 949px;
+    background: white;
+    padding: 10px;
+}
+#portal-footer-content{
+    text-align: center;
+    background: #FFCC99;
+    padding: 5px;
+}
+
+.portal-recipe-ingredients{
+    width: 100%;
+}
+.portal-recipe-ingredients li{
+    list-style-image: url(images/square.png);
+    list-style-type: none;
+}
+
+.recipe-page{
+    padding-right: 20px;
+}
+
+#portal-primary-link a {
+    text-decoration: none;
+    font-variant: normal;
+}
+
+#btnSearch{
+    background: #eeeeee;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.best-time-listitem{
+    list-style: none;
+    padding: 3px;
+    margin-top: 5px;
+    background: #ffff99;
+    -moz-border-radius: 5px;
+    width: 120px;
+
+}
+
+.portal-recipe-horaries{
+    text-align: left;
+    margin-left: 4px;
+}
+
+
+
+#portal-welcome-msg{
+    border: 2px solid  #FFCC99;
+    padding: 2px;
+    font-size: 19px;
+    display: block;
+    background: #FFCC99;
+    background-position: 460px 40px;
+    width: 550px;
+}
+
+#portal-welcome-msg-content{
+    background: none repeat scroll 0 0 white;
+    font-family: "Times New Roman";
+    padding: 10px;
+    width: 410px;
+    height: 133px;
+}
+
+#welcomemsg-border-topright{
+    margin-left: 535px;
+    position: absolute;
+    margin-top: -158px;
+}
+
+#welcomemsg-border-bottomright{
+    margin-left: 533px;
+    margin-top: -16px;
+    position: absolute;
+}
+
+.monotype-corsive{
+    font-family: 'Monotype Corsiva';
+}
+
+#portal-welcomemsg-lens {
+    margin-left: 450px;
+    margin-top: -120px;
+    position: absolute;
+}
+
+.portal-grid{
+    width: 100%;
+}
+.portal-grid td{
+    padding: 5px;
+    border: 1px dashed gray;
+}
+
+li.orange-square{
+
+}
+
+#portal-recipe-controls{
+    padding-top: 10px;
+    padding-right: 100px;
+    text-align: right;
+}
+
+#portal #edtComment{
+    width: 400px;
+    height: 200px;
+    background: white;
+    border: 2px solid #7f7f7f;
+}
+#edtNameToShow{
+    width: 200px;
+    background: white;
+    border: 2px solid #7f7f7f;
+}
+#portal-similar-recipes{
+
+}
+
+
+#portal-similar-recipes li{
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    list-style-image: url(images/square.png);
+    list-style-type: none;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.portal-popular-recipes{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.portal-popular-recipes li{
+/*    height: 20px;*/
+    line-height: 20px;
+    list-style-image: url(images/square.png);
+    list-style-type: none;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-left:-25px;
+}
+
+#portal-content{
+    width: 600px;
+    min-height: 600px;
+    display: table-cell;
+}
+
+#portal-ads{
+/*	border: 1px solid black; */
+    text-align: center;
+    width: 300px;
+    min-height: 600px;
+    display: block;
+}
+
+#search-filter-ingredients{
+    width: 80%;
+}
+
+#edtRecipesCatalogFilter{
+    width: 400px;
+}
+
+.portal-recipe-detail{
+    text-align:center;
+    width: 120px;
+    margin: 0;
+}
+
+.portal-recipe-diet{
+    background-color: #66ff99;
+    -moz-border-radius: 5px;
+    padding: 3px;
+    width: 120px;
+}
+
+.portal-recipe-nationality{
+    background-color: #cc99ff;
+    -moz-border-radius: 5px;
+    padding: 3px;
+    width: 120px;
+}
+
+.portal-recipe-occasion{
+    background-color: #ffcccc;
+    -moz-border-radius: 5px;
+    padding: 3px;
+    width: 120px;
+}
+
+.portal-recipe-preparationtype{
+    background-color: #cccc99;
+    -moz-border-radius: 5px;
+    padding: 3px;
+}
+
+table.portal-recipe-details td{
+    vertical-align: top;
+}
+
+.portal-recipe-preparationtime{
+    font-size: 19px;
+}
+
+ul.potral-recipe-ingredients li{
+    list-style-image: url(images/square.png);
+    list-style-type: none;
+}
+
+
+#search-recipe #edtTitle{
+    width: 350px;
+}
+
+#read-a-secret{
+    padding: 10px;
+
+}
+#portal-topright {
+    margin-left:827px;
+    margin-top:-17px;
+    position: absolute;
+    z-index: 9999;
+}
+
+.secret{
+    position: relative;
+    top: -10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+.colon-first{
+    position: relative;
+    top: -10px;
+}
+
+.colon-last{
+    margin-left: -20px;
+    margin-top: -20px;
+}
+
+a img{
+	border: 0px;
+}
+
+#slide-image-link{
+	text-align: left;
+}
+
+#slides-control-stop{
+	background: url(images/buttons.png) no-repeat;
+	height: 41px;
+	width: 41px;
+	cursor: pointer;
+	float:left;
+}
+
+#slides-control-play{
+	background: url(images/buttons.png) no-repeat;
+	height: 41px;
+	width: 41px;
+	background-position: -41px;
+	cursor: pointer;
+	float:left;
+}
+
+#slides-control{
+	position: absolute;
+	margin-top: 350px;
+	margin-left: 860px;
+	z-index:9999;
+}

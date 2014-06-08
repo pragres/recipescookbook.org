@@ -1,0 +1,33 @@
+# Ramifip PHP Framework: Default configuration for Apache/PHP
+Options +FollowSymLinks
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteRule "(^|/)\." - [F]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.php [L]
+  RewriteBase /
+</IfModule>
+
+
+# accepts only non-www address and redirect the remaining traffic
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ http://%1%{REQUEST_URI} [L,R=301]
+
+# redirect recipes pages
+#RewriteRule ^recipe/(\w+) index.php?q=recipe/$1 [L]
+
+# redirecting traffic to the new site
+#RewriteCond %{HTTP_HOST} ^http://mirtarecipes.pragres.com/$ [NC]
+#RewriteRule ^ http://recipescookbook.org/$1 [L,R=301]
+
+# expire headers
+ExpiresActive On
+ExpiresDefault "access plus 1 seconds"
+ExpiresByType image/jpeg "access plus 2592000 seconds"
+ExpiresByType image/png "access plus 2592000 seconds"
+ExpiresByType image/gif "access plus 2592000 seconds"
+ExpiresByType text/css "access plus 604800 seconds"
+ExpiresByType text/javascript "access plus 604800 seconds"
+ExpiresByType application/javascript "access plus 604800 seconds"
+ExpiresByType text/html "access plus 2592000 seconds"

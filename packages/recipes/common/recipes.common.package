@@ -1,0 +1,10 @@
+id = "recipes-common"
+description = "Mirta Recipes Cookbook Common Package"
+active = true
+version = "1.0"
+
+js[] = "recipes/common/recipes"
+autouse[] = "RecipesModel: recipes/common/RecipesModel"
+autouse[] = "RecipePDF: recipes/common/RecipePDF"
+autouse[] = "PDF: recipes/common/PDF"
+autouse[] = "RecipesControl: recipes/common/RecipesControl"

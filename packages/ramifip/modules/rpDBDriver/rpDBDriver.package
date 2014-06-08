@@ -1,0 +1,7 @@
+id = "rpDBDriver"
+description = "Ramifip Database Driver"
+version = "1.0"
+
+autouse[] = "rpDBDriver: {$folder}rpDBDriver"
+autouse[] = "rpDBDriverMySQL: {$folder}rpDBDriverMySQL"
+autouse[] = "rpDBDriverPostgreSQL: {$folder}rpDBDriverPostgreSQL"

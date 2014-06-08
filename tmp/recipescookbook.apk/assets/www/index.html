@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+       <link rel="stylesheet" type="text/css" href="js/jquery.mobile/jquery.mobile-1.2.0.css" />
+        <link rel="stylesheet" type="text/css" href="js/jquery.mobile/jquery.mobile.theme-1.2.0.css" />
+        <link rel="stylesheet" type="text/css" href="js/jquery.mobile/jquery.mobile.structure-1.2.0.css" />
+        
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <script type="text/javascript" src="cordova-2.2.0.js"></script>
+        <script src="js/jquery.js" type ="text/javascript"></script>
+       <script src="js/jquery.mobile/jquery.mobile-1.2.0.js" type ="text/javascript"></script> 
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="js/data.js"></script>
+        <script type="text/javascript" src="js/lib.js"></script>
+        <title>Mirta Recipes Cookbook</title>
+        <style>
+        
+        #screen {
+		position: absolute;
+		width: 100%;
+		height: 350px;
+		background: #fff;
+		overflow: hidden;
+		top: 0px;
+		left: 0px;
+	}
+	.panel {
+		position: relative;
+		float: left;
+		width: 100%;
+		height: 350px;
+		margin: 0px;
+		overflow: hidden;
+	}
+	.imgPanel {
+		position: absolute;
+		border: none;
+		text-decoration: none;
+	}
+	
+        	.ui-content {padding: 3px;}
+        	.ui-btn-right{
+        		font-size: 25px;
+        	}
+        	
+        	#btnSearch span{
+        		font-size:20px;
+        	}
+        	
+        	#home{padding: 0px;}
+        </style>
+    </head>
+    <body>
+    	<img onclick = "showHome();" src="img/logo-60x60.png" style="position: fixed; top:0px;left:0px;z-index:9999;"/>
+		<div data-role="page" id="home"> 
+			<div data-role="header" data-position="fixed" data-theme="e" style="position: fixed;top: 0px;left:0px;">
+				<h1>Mirta Recipes Cookbook</h1>
+				<a id = "btnSearch" data-icon="search" class="ui-btn-right">Search</a>
+			</div> 
+			<div data-role="content">
+				<div id="form" style="width: 100%;">				
+					<input type="search" name="subject" id="subject" value="" />
+				</div>
+				<div id="results" style="text-align:center;">
+				</div>
+			</div>
+		</div>
+		
+        <script type="text/javascript">
+    		/* ======================================================================================
+                              ===== DOM Panels III =====
+			        script by Gerard Ferrandez - ge1doot - April 22, 2007
+			        Evolved from Phil Richard's Panels II: http://www.mgifos.demon.co.uk/panels2.htm
+			        http://www.dhteumeuleu.com
+			   ====================================================================================== */
+			
+			var xm = 0;
+			var ym = 0;
+			
+			/*document.onmousemove = function(e){
+				if (window.event) e=window.event;
+				xm = e.clientX;
+				ym = e.clientY;
+			}*/
+			
+			var panel = {
+				speed : .006,
+				t : 0,
+				O : [],
+				over : false,
+				
+				run : function() {
+					panel.t += panel.speed;
+					for (var i = 0, o; o = panel.O[i]; i++)
+						o.anim(i + panel.t);
+				},
+				
+				init : function(){
+					for (var i = 0, o; o = document.images[i]; i++){
+						if (o.className.indexOf('panel') >= 0) {
+							if(o.parentNode.href != undefined) {
+								var div = document.createElement("a");
+								div.href = o.parentNode.href;
+							} else {
+								var div = document.createElement("div");
+							}
+							div.className = 'panel';
+							var img = document.createElement("img");
+							img.src = o.src;
+							img.width = 800;
+							img.className = 'imgPanel';
+							o.parentNode.replaceChild(div,o);
+							div.appendChild(img);
+							div.ims = img.style;
+							div.iw = img.width;
+							div.ih = img.height;
+							div.cx = -div.iw / 2;
+							div.cy = -div.ih / 2;
+							div.anim = function(t) {
+								nw = this.offsetWidth;
+								nh = this.offsetHeight;
+								if (panel.over == this){
+									for (var nx = 0, ny = 0, o = this; o != null; o = o.offsetParent) nx += o.offsetLeft, ny += o.offsetTop;
+									var x = Math.max(-this.iw + nw, Math.min(0, (-(xm - nx) * (this.iw - nw)) / nw));
+									var y = Math.max(-this.ih + nh, Math.min(0, (-(ym - ny) * (this.ih - nh)) / nh));
+									if (Math.abs(xm-nx-nw * .5) > nw || Math.abs(ym-ny-nh * .5) > nw ) panel.over = false;
+								} else {
+									var mx = (this.iw - nw) * .5;
+									var my = (this.ih - nh) * .5;
+									var x = -mx * (1 + Math.cos(t * 1.2));
+									var y = -my * (1 + Math.sin(t));
+								}
+								this.cx += (x - this.cx) * .1;
+								this.cy += (y - this.cy) * .1;
+								this.ims.left = Math.round(this.cx) + 'px';
+								this.ims.top  = Math.round(this.cy) + 'px';
+							}
+							
+							div.onmouseover = function()
+							{
+								panel.over = this;
+							}
+							this.O.push(div);
+						}
+					}
+					setInterval(panel.run, 32);
+				}
+			}   
+		    window.addEventListener('load', function(){
+		    	// Wait for PhoneGap to load
+		   		document.addEventListener("deviceready", onDeviceReady, false);
+		    }, false);
+	    	    
+	    	function setPageTitle(title){
+	    		$(".ui-header h1.ui-title").html(title);
+	    	}    
+	    	    
+			function showRecipe(id){
+				$.mobile.silentScroll()
+				$(".ui-input-search").hide();
+				var recipe = recipes[id];
+				var picture = str_replace("..\/files\/recipes\/", "", recipes[id].picture);
+	    		if (picture=='') picture = 'img/no-picture.png'; else picture = 'recipes/' + picture;
+	    		var html ='<div id="recipe-page">';
+					    		
+    			html += '<div id="screen"><img class="panel" width="1024" style="border: 2px solid black;margin-top: 5px;" width="100%" src="' + picture + '"></div>';
+				html += '<h1 style="padding: 6px; color: white; background: black; opacity: 0.8; position: absolute; top:317px; right: 5px; font-size: 27px;font-weight: bold;">' + recipe.name + '</h1>';
+    			
+    			setPageTitle(recipe.name);
+				if (recipe.description.length > 8) html += '<div style="margin-top: 310px;font-size:23px;text-align:justify;border-bottom: 2px solid #eeeee;margin-bottom:5px;" align="justify">' + recipe.description+'</div><table style=" font-size: 27px;"><tr>';
+				else html += '<table style="font-size: 27px;margin-top: 310px;"><tr>';
+				html += '<td align="right" style="font-size:18px;">Diet:</td><td style="background:#66FF99;padding: 5px;" align="left"><strong>' + recipe.diet_name + '</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:23px;">Nationality:</td><td style="background:#CC99FF;padding: 5px;" align="left"><strong>' + recipe.nationality_name + '</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:23px;">Occasion:</td><td style="background:#FFCCCC;padding: 5px;" align="left"><strong>' + recipe.occasion_name + '</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:23px;">Preparation time:</td><td style="background:white;padding: 5px;" align="left"><strong>' + recipe.cookingtime + ' mins</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:23px;">Preparation type:</td><td style="background:#CCCC99;padding: 5px;" align="left"><strong>' + recipe.preparationtype_name + '</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:23px;">Best time:</td><td align="left"><strong>';
+				for(var i in recipe.horaries) {
+					html += '<span style="background: #FFFF99;padding:5px;">' + recipe.horaries[i].name + '</span>';
+					if (i+1 < recipe.horaries.length) html += ', ';
+				}
+				html += '</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:18px;">Inserted:</td><td align="left"><strong>' + date('M,d Y', strtotime(recipe.inserteddate)) + '</strong></td></tr>';
+				html += '<tr><td align="right" style="font-size:18px;">Servings:</td><td align="left"><strong>' + recipe.numberofguests + '</strong></td></tr>';
+				html += '</table>';
+
+			    html += '<div style="text-align:left;font-size:23px;font-size:23px;"><h2>Ingredients:</h2><ul>';
+				for(var i in recipe.ingredients){
+					html += '<li class="recipe">' + recipe.ingredients[i].name + '</li>';
+					
+					
+				}
+				html += '</ul></div>'; 
+			
+				html += '<div style="text-align:left;font-size:23px;font-size:23px;"><h2>Preparation mode:</h2>';
+				html += recipe.preparationmode;
+				html += '</div>';
+				 
+				html += '</div>';
+				$("#results").html(html);
+				panel.init();			
+			}
+			 
+			function showHome(){
+				$.mobile.silentScroll()
+				setPageTitle("Mirta Recipes Cookbook");
+				$(".ui-input-search").show();
+				var imgs = [];
+				var j = 0;
+				for(var i in recipes){
+						var picture = str_replace("..\/files\/recipes\/","", recipes[i].picture);
+			    		if (Math.random() > 0.5) if (picture != '') {
+			    			j++;
+			    			imgs[i] = recipes[i];
+			    			imgs[i].picture = picture;
+			    			if (j==16) break;
+			    		}
+				}
+				
+				html = '<table width="100%" cellpadding="0" cellspacing="0">';
+				j = 0;
+				for(var i in imgs){
+					j++;
+					if (j==1) html += '<tr>';
+					html += '<td width="25%"><img onclick="showRecipe(' + i + ');" width="100%" height = "100" style="opacity:0.8;" src="recipes/' + imgs[i].picture + '"></td>';
+					if (j==4) {html += '</tr>'; j=0;}
+					
+				}
+				html+= '</table><p style="font-size: 18px;" align="center"><a href="https://plus.google.com/109657323256720394607?rel=author">Mirta Calvo</a> &copy; 2013 <br/> Made by <a href="http://pragres.com" rel="nofollow">Pragres</a> - <a href="https://plus.google.com/b/118136686913723067201/118136686913723067201" rel="publisher">Pragres in Google+</a> <br/> Powered by <a href="http://phonegap.com/" rel="nofollow">PhoneGap</a>';
+				
+				$("#results").html(html);
+			}
+			 
+		    // PhoneGap is ready
+		    function onDeviceReady() {
+		    	
+		    	$(function(){
+					showHome();
+		    	});
+		    	
+		    	$("#btnSearch").click(function(){
+		    		$("#recipe-page").remove();
+		    		$(".ui-input-search").show();
+		    		var s = $("#subject").val();
+			    	if (s != ''){
+			    		setPageTitle("Searching...");
+			    		$("#results").html('<p align="center"><br/><br/><img src="js/jquery.mobile/images/ajax-loader.gif"></p>');
+			    		
+			    		var ws = explode(' ',s);
+			    		var result = [];
+			    		for(var i in recipes){
+			    			var match = true;
+			    			for(var j in ws){
+			    				var p  = stripos(recipes[i].name,ws[j]);
+			    				if (p==false && typeof(p) == "boolean") {
+			    					match = false;
+			    					break;
+			    				}
+			    			}
+			    			if (match){
+			    				result[i] = recipes[i];
+			    			}
+			    		}
+			    		
+			    		if (result.length>0){
+				    		var html ='<br/>';
+				    		html +='<table>';
+				    		j = 0;
+				    		for(var i in result){
+				    			j++;
+				    			if (j==1) html +='<tr>';
+					    		var picture = str_replace("..\/files\/recipes\/","",result[i].picture);
+					    		if (picture=='') picture = 'img/no-picture.png'; else picture = 'recipes/' + picture;
+					    		var description = substr(htmlToText(result[i].description + ' ' + result[i].preparationmode,0), 0,500);
+								if (description.length<6) description = '';
+				    			html += '<td><div style="font-size: 20px;" onclick="showRecipe(' + i + ');"><img style="border:1px solid black;" width="130" src="' + picture + '"><br/><strong>' + result[i].name + "</strong></div></td>";
+				    			if (j==2) {html +='</tr>'; j = 0;}
+				    		}
+				    		if (j==0) html +='</tr>'; 
+				    		html+='</table>';
+				    		
+			    		} else {
+			    			var html = 'They were not recipes';
+			    		}
+			    		setPageTitle("Mirta Recipes Cookbook");
+			    		$("#results").html(html);
+			    		//$("#listresults").listview({});
+			    	}
+		    	});
+		    	
+		    }
+			
+			//app.initialize(); 
+        </script>
+       
+    </body>
+</html>

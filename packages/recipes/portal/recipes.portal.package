@@ -1,0 +1,11 @@
+id = "recipes-portal"
+name = "Mirta's Recipes Cookbook Page"
+type = "application"
+description = "Recolection of personal recipes"
+
+css[] = ">> recipes/portal/recipes.portal"
+css[] = ">> ../packages/com/dynamicdrive/multizoom/multizoom"
+js[] = ">> ../packages/com/dynamicdrive/multizoom/multizoom"
+
+paths[] = "file) download: download/SaveRecipe.php"
+paths[] = "img) images/recipes: ../files/recipes"

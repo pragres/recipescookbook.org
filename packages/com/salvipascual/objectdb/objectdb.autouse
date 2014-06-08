@@ -1,0 +1,11 @@
+# ObjectDB
+# Autose file for Ramifip PHP Framework
+
+use[] = "IODBConnection: com/salvipascual/objectb/IODBConnection"
+use[] = "ODBConnectionPgSQL: com/salvipascual/objectdb/ODBConnectionPgSQL"
+use[] = "ODBConnectionMySQL: com/salvipascual/objectdb/ODBConnectionMySQL"
+use[] = "ODBConnectionMSSQL: com/salvipascual/objectdb/ODBConnectionMySQL"
+use[] = "ODBException: com/salvipascual/objectdb/ODBException"
+use[] = "ODBConnection: com/salvipascual/objectdb/ODBConnection"
+use[] = "ODBObject: com/salvipascual/objectdb/ODBObject"
+use[] = "objectDB: com/salvipascual/objectdb/objectDB"

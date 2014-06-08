@@ -1,0 +1,955 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/recipes/white rice.jpg
+SHA1-Digest: LtCqFFTy52KddYA9ZGpG4D3S/IE=
+
+Name: res/xml/config.xml
+SHA1-Digest: 2rN57voodCDfMh5BZEkycYeV1K4=
+
+Name: assets/www/recipes/cuban congri.JPG
+SHA1-Digest: R2L3IemKhi3KggjTv1tauf1xenY=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_russian.txt
+SHA1-Digest: ln5mpI7m/dYz8po1m2pe5V1t//k=
+
+Name: assets/www/recipes/fish and veggie.JPG
+SHA1-Digest: DRf1P5B8dU6HRi1sNL7lgLYupZU=
+
+Name: assets/www/recipes/jemmycoconoutcake.jpg
+SHA1-Digest: v84k3VHjqqDMNW2g+fbbVIElFd4=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_french.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/tuna salad.jpeg
+SHA1-Digest: lZOjgk5Eae6Ipdx1+NeA6gdbWMo=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_romanian.txt
+SHA1-Digest: 8dJCy93UqGPxUAM5qiwy8UeOCpA=
+
+Name: assets/www/js/jquery.mobile/images/icons-18-black.png
+SHA1-Digest: 2zOURmgG7TYicOGnxfSucQo6Lxg=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hungarian.txt
+SHA1-Digest: kpJ0pEDOyFBEu6wl4QdynsUq6jE=
+
+Name: assets/www/js/jquery.mobile/images/icons-36-white.png
+SHA1-Digest: vIWVJEKtjCzYnYP40K7owpeZbWA=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_arabic.txt
+SHA1-Digest: 8LPDBpkhGMPrbgNH/3GMv5DW2Vs=
+
+Name: assets/www/recipes/pasta with meatball and corn.JPG
+SHA1-Digest: 9F5ohCXsW5NWBIPW65NRZnUWnQc=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_english.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_russian.txt
+SHA1-Digest: T4ZqaaGytR6k0txV4R9HaAMRd8M=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_approx_common.txt
+SHA1-Digest: c9AqKhHVO0VPlbeLnJTrKdy/gSs=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/Chick peas Porridge.JPG
+SHA1-Digest: 3t7WUaPBR2MbmqhFlmwrcrpRaRY=
+
+Name: assets/www/recipes/Glazed carrots.jpg
+SHA1-Digest: pcIhHLNrm3RDqVl/vp/CqmLZMrg=
+
+Name: org/apache/commons/codec/language/bm/sep_hebrew_common.txt
+SHA1-Digest: pLUCmc4T/RjuklQ1aIULtSUwHKI=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_english.txt
+SHA1-Digest: WdrL/vp21NUtryKaVCYaAfnUY9U=
+
+Name: assets/www/recipes/italian wedding soup.JPG
+SHA1-Digest: +NREfXCrBf5NaL+WCAM2byxaL0s=
+
+Name: assets/www/recipes/pasta de bocadito.jpg
+SHA1-Digest: Au7mliEyRODtKcake1mNSyYJjjE=
+
+Name: assets/www/recipes/Chocolate Cake.JPG
+SHA1-Digest: Hm1FB7BxYvfbdfZKD5VizLoGd9I=
+
+Name: assets/www/recipes/mirta hamburguers.jpg
+SHA1-Digest: 2pUfbloFIrKygL+lJPGNB1QakSE=
+
+Name: assets/www/res/screen/android/screen-xhdpi-landscape.png
+SHA1-Digest: v0PPGOzPeAlk4hGOyaKmrbH9orY=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_common.txt
+SHA1-Digest: VLGwCVv3uxq8eYkWPr7gmtHLOnU=
+
+Name: assets/www/js/test.html
+SHA1-Digest: FDdqTKGW18wCn7cR0oNwWE6EkRU=
+
+Name: assets/www/res/screen/android/screen-ldpi-portrait.png
+SHA1-Digest: c+3X8EOQ10c1TRnCcqY6Jd3gDWg=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_dutch.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_french.txt
+SHA1-Digest: FzpQ+GbWmzaOeTszrpAHMAbmuII=
+
+Name: assets/www/recipes/the hot salad.jpg
+SHA1-Digest: oxWm4xwR8ygynIVvhfrCRISUB78=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_spanish.txt
+SHA1-Digest: v/X501bGOhAvKUt41xXerI3WFvE=
+
+Name: assets/www/recipes/strawberry delight cake.jpg
+SHA1-Digest: a8mMWb04dFkz6oZGWno+eGBlOsQ=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_russian.txt
+SHA1-Digest: k/nguda0I1ot8kuzX5C5xNb+MhY=
+
+Name: assets/www/res/screen/android/screen-ldpi-landscape.png
+SHA1-Digest: JKe2isk/K0J5RbesnpOGxYNE7NU=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_french.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_any.txt
+SHA1-Digest: 54nb4ON7/wkHOr32PrSKqoszAGk=
+
+Name: assets/www/recipes/fernand salad.jpg
+SHA1-Digest: J6wLE14TvtjAt/D0VIFG40FAjMg=
+
+Name: assets/www/recipes/ham risotto.JPG
+SHA1-Digest: r20/0dtP/0zjy7fR9gChce9J1e4=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_french.txt
+SHA1-Digest: B8soq3ODQdgyws77pmFOVzo66uI=
+
+Name: assets/www/img/square.png
+SHA1-Digest: UyyRb6+ISRWxGvsVl2yIH5plbnM=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_common.txt
+SHA1-Digest: 4KUii83+gs6HZqsqdVTJKWmbKLE=
+
+Name: assets/www/recipes/chicken, rice and mushrooms.JPG
+SHA1-Digest: SL6wBM6EYrmlVXwNDgtC1oIzdu0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt
+SHA1-Digest: T0MDehullcH0uAY9slGJMUAhTkQ=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt
+SHA1-Digest: zhdfuG3lpctSYxuUJ7xTMIjSPNs=
+
+Name: assets/www/recipes/plaintain cuban mariquitas.JPG
+SHA1-Digest: TLI4G7frbWX6oCjgg5v7kWYCFQU=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_italian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/creamy coconout pie - full.JPG
+SHA1-Digest: QO6TTCCaXOswRStdGeGgWsnhBKY=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile.theme-1.2.0.min.css
+SHA1-Digest: 6K4bTd4stLCPNllKwJwckcauSUg=
+
+Name: assets/www/recipes/fernand favorite salad.JPG
+SHA1-Digest: zwkP0d/hjU83t+6J3ip50Svm+c0=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_german.txt
+SHA1-Digest: YO+2+bquWxcrjLHWD06sQ4ycQYc=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_romanian.txt
+SHA1-Digest: c2FG81GO6lTa5eTZpNvoIjKLPfw=
+
+Name: assets/www/recipes/breaded steak.JPG
+SHA1-Digest: e5Y1ot9wuDFVaT/qx8iAgiqM1mw=
+
+Name: assets/www/recipes/Chiken Divan.JPG
+SHA1-Digest: FC9sqxypbx8ywgLXHqT+dd5xRPM=
+
+Name: assets/www/img/logo-60x60.png
+SHA1-Digest: dZ8N+aSC9ZNdNhWCHsM51sofB+8=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_english.txt
+SHA1-Digest: xDM5Kj+RvDu2y5bXf+6seM3O0Ww=
+
+Name: assets/www/recipes/applecake.jpg
+SHA1-Digest: Rlx0BLOJXykhwJMv0BZUZAWCqcc=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_english.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: assets/www/recipes/black beans.jpg
+SHA1-Digest: L86r6o8tch1yvJEJ6hhHSp4lymI=
+
+Name: assets/www/recipes/Vizcaina cod.JPG
+SHA1-Digest: 3xzXf2iuIYwRKcosQhzMVE28Na0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_polish.txt
+SHA1-Digest: BKwAayJJNnmipd/rFV3jPkaErSE=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_turkish.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/cuban empanadas.JPG
+SHA1-Digest: 5grh+URcwMXt4wrZLbczzJrRRzY=
+
+Name: assets/www/recipes/pork chops with pinaple sauce.JPG
+SHA1-Digest: IedhEpA/dGrfUTqbvCckQv7cgh8=
+
+Name: assets/www/recipes/french toast.jpg
+SHA1-Digest: usFrtYEsD3FkqhMfmMz8ZSgCZhw=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hebrew.txt
+SHA1-Digest: 80bIa465/ozUslfQBb84wPL42nY=
+
+Name: assets/www/recipes/Chicken hula.jpg
+SHA1-Digest: eYttD5PWkeHcB0eKwx2V/gnO7iU=
+
+Name: assets/www/res/icon/android/icon-48-mdpi.png
+SHA1-Digest: 37X5aaSqMaeD7xQRqEIeFoHVlT0=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_portuguese.txt
+SHA1-Digest: sqGys16ESrXOXSg9obu8ix9O0DQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_english.txt
+SHA1-Digest: CHRv59odKbwWuNzWNtwmYNxOEH4=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_german.txt
+SHA1-Digest: 3GlHgMBkvi2mEoFnPYxoBXIh4No=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_german.txt
+SHA1-Digest: MxrOjj0j10k/YbNQybQuDJBum3c=
+
+Name: assets/www/main.js
+SHA1-Digest: 36ai6EoEzWzJPNrhfpf4uEZYhzU=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_spanish.txt
+SHA1-Digest: lGrj01vFVhIZq42vqijMqqlw+eo=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_polish.txt
+SHA1-Digest: C2oXvKtemOA5+wbuURYYZrRXawk=
+
+Name: assets/www/recipes/easter pie.jpg
+SHA1-Digest: x/NFpuZm14xdlStkoEiE7oFaeE8=
+
+Name: assets/www/recipes/magui_'s coconout cake.jpg
+SHA1-Digest: zwVnNVuUl8PVWISSzjtIT/IanZs=
+
+Name: assets/www/recipes/peach pie.jpg
+SHA1-Digest: Ic+WXSWv/nSZh23EBVkt7iqNxx8=
+
+Name: assets/www/recipes/cala.jpg
+SHA1-Digest: beMqUe8Mli+PgKQA++uBwndZb+U=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_any.txt
+SHA1-Digest: 31+z+V5I9I/BsRgZo688C7Nmz5c=
+
+Name: assets/www/recipes/vanilla chocolote cupcake.JPG
+SHA1-Digest: x91wA1LZcv/kvCDLQz6rcV4OX8A=
+
+Name: assets/www/res/screen/android/screen-hdpi-landscape.png
+SHA1-Digest: SPoUuI5e/rJGgr8rQ6ZasZ26fjU=
+
+Name: assets/www/recipes/strawberry jam.jpg
+SHA1-Digest: yxPsWQ1JJ2zP9ryf5LKmP8OrcXc=
+
+Name: assets/www/recipes/picadillo a la habanera.jpg
+SHA1-Digest: ni9ZUhif1YsXQPjyNrATSIVBJ20=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greek.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/col slow.JPG
+SHA1-Digest: fRMy5Y2OoQxa1KGlHiHtE8xJn5g=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_any.txt
+SHA1-Digest: jWl5fcYklf5KZQOVQOhWuWwoUAM=
+
+Name: assets/www/recipes/chocolate puddin.jpg
+SHA1-Digest: Gqk5Aze5s0HwUbqAtHra4H5HWbQ=
+
+Name: assets/www/master.css
+SHA1-Digest: xzpr/TuvC5bfYd7XR9JG2xSUPzc=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile.structure-1.2.0.min.cs
+ s
+SHA1-Digest: tSP2eto5VQOY31l+KGL4RRrhg/g=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_german.txt
+SHA1-Digest: 0/CejklscQ18lQIcpLZ4h2ZwsQ0=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt
+SHA1-Digest: KM44dvGlJjA1G1+QMxAorjQfVZo=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_english.txt
+SHA1-Digest: WdrL/vp21NUtryKaVCYaAfnUY9U=
+
+Name: assets/www/recipes/mufflin.jpg
+SHA1-Digest: OXA9DxLSKarfACBHPdYQmNFNfCk=
+
+Name: assets/www/recipes/rice pudding.jpg
+SHA1-Digest: 0NqaXSlqIe8o4MvAEYXrHKCqAC0=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_polish.txt
+SHA1-Digest: YtjlwefN2I0RWdC2euL3eS1iTgQ=
+
+Name: assets/www/recipes/chocoflan.jpg
+SHA1-Digest: IIr60HNm7dZhMGijz0UsEfCTn+I=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: cPz/ajqjIs99NEO5xnexPk7TUeg=
+
+Name: assets/www/recipes/traditional flan.JPG
+SHA1-Digest: xJb4I9WCPLlMHC9uDuBDi74GQjg=
+
+Name: assets/www/recipes/coconout flan.JPG
+SHA1-Digest: s9TDqm6XUxKnJfps6iYhi2xp1PQ=
+
+Name: assets/www/recipes/vegetables salad.JPG
+SHA1-Digest: DKp0chtzRGVuULTwHwNT79cwFmE=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: assets/www/recipes/Cream Cheese Soup.JPG
+SHA1-Digest: 7ZTVN643dfm370NppvxhGgg4fIY=
+
+Name: assets/www/recipes/tricolor salad.JPG
+SHA1-Digest: 2mCOpbwO4wnvhruXrm62NQn+Wo0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_russian.txt
+SHA1-Digest: i18jgMcJnz+/whRVChudyvXR6bQ=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_any.txt
+SHA1-Digest: 5FHNYWkE/iE9uhTrfBSWz2fh4rI=
+
+Name: org/apache/commons/codec/language/bm/ash_languages.txt
+SHA1-Digest: x5ijgzijaJwexI8tGvYq1Ys8W0o=
+
+Name: assets/www/recipes/Mediterran Salad.JPG
+SHA1-Digest: zHrEg2DzyAKe3ts71o81YcgAhik=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_turkish.txt
+SHA1-Digest: rN+fxuizg39UWtnHiV1G1d2AaVY=
+
+Name: assets/www/recipes/fruit cake - slide.JPG
+SHA1-Digest: PaA1qLYyp9zdcQEnQw+hBAVsz2I=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_approx_common.txt
+SHA1-Digest: 2wGOF99LQlKr0epBg2LDfgg5c/k=
+
+Name: assets/www/recipes/carne mechada (cuban shredded beef).JPG
+SHA1-Digest: L1Yvd+HLkautC22uQynssrlkVj8=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_any.txt
+SHA1-Digest: tBhirNuraiANjlje0HNzz2Rd8XY=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_hebrew.txt
+SHA1-Digest: G0Yn8vlBmcqKqvsNdi9pfDl8Mbs=
+
+Name: assets/www/recipes/fried eggplant.jpg
+SHA1-Digest: RCmoNXgA6lsm+cIRVKuypH+7peg=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/pasta with beef.JPG
+SHA1-Digest: TwkmTSOIQgdJNI0aUdVmZe+lyZI=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_russian.txt
+SHA1-Digest: lulM+eX+omlYPVagYcZ7S+1OOAg=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_any.txt
+SHA1-Digest: 0mWytx3QfDcxQYesfSLfKaaiPGc=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greek.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: assets/www/cordova-2.2.0.js
+SHA1-Digest: 0O8L2PLe0iXhtCCBGsIGis7zVzo=
+
+Name: assets/www/recipes/eclair cake.jpg
+SHA1-Digest: vgLisBlPyX6OlPjn/IIBug48hVo=
+
+Name: assets/www/recipes/pork chops with wine.JPG
+SHA1-Digest: o+sxEh4SAtWWi7VYPGZdkhqKk/Y=
+
+Name: assets/www/recipes/Irish cake.jpg
+SHA1-Digest: SADJ5OJw0gRnxSY2EATXWkzAWa0=
+
+Name: assets/www/recipes/green beans and potatoes.JPG
+SHA1-Digest: vX+fEQtlixzA2RiBclcd1qw/AFE=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greek.txt
+SHA1-Digest: /j/A9h8+FfAazMODJJHekOCQB5c=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine.js
+SHA1-Digest: UbuCXRtZstykBBa58lepG51icZw=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_italian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/tropical dobosh.jpg
+SHA1-Digest: W5m02uk5GaRjqFTiHT9uSpFFnXY=
+
+Name: assets/www/recipes/party mix.JPG
+SHA1-Digest: WTMo0FZc0U+f+wla8sxtiynYakw=
+
+Name: assets/www/recipes/spicy rice.jpg
+SHA1-Digest: BdINnSe6m9uJhiUlqlGXt1Kykto=
+
+Name: assets/www/js/jquery.js
+SHA1-Digest: oPSLatUyKzU4P/y24vp3m4pfz/w=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_any.txt
+SHA1-Digest: dLYj+QzWWMV1HWCtEJPX4xYg2q0=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_russian.txt
+SHA1-Digest: rXaMJ4HIP1dVq2JA4YDx9goSHNo=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile.structure-1.2.0.css
+SHA1-Digest: 5MIoJnObNoWuXU4M/1oNX7+J8rc=
+
+Name: assets/www/spec/index.js
+SHA1-Digest: J4GKWWL87ZmFEo/y6AwV16rZhQY=
+
+Name: assets/www/recipes/Potato and cheese souffle.jpg
+SHA1-Digest: PORr5Pz83z+yGXaooWonWpr3QGA=
+
+Name: assets/www/recipes/Less Fat Mealty Lasagna.jpg
+SHA1-Digest: iL5j8gl1OQ9qomtnPfFqoUsUtvU=
+
+Name: assets/www/recipes/tofee bars.JPG
+SHA1-Digest: s+M/DauUiID7f7HaSKR61iEcqo4=
+
+Name: assets/www/recipes/banana cupcakes.JPG
+SHA1-Digest: evkHvsj3BwdjCr/huY1j3XisSwQ=
+
+Name: assets/www/recipes/Honeyluscious chicken.jpg
+SHA1-Digest: yrcfUpaFkjJ1ZEaiQo0Uu8ZDKlA=
+
+Name: assets/www/js/jquery.mobile/images/icons-36-black.png
+SHA1-Digest: DGqbtw+P5PhIuHjyBMRH028+Ewk=
+
+Name: org/apache/commons/codec/language/bm/lang.txt
+SHA1-Digest: H+gJtZUsHsM9QHoCyS/cdT9yjaQ=
+
+Name: assets/www/recipes/meatball.jpg
+SHA1-Digest: +BZUF0J9+Uss7O+FL2SQkmg08u0=
+
+Name: assets/www/recipes/biscuit.JPG
+SHA1-Digest: x91wA1LZcv/kvCDLQz6rcV4OX8A=
+
+Name: assets/www/recipes/Easter basket cupcakes.jpg
+SHA1-Digest: Bpc0QFpL/6mPvouSInUDKkIlWSI=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_french.txt
+SHA1-Digest: q9sgIysKftSjudOa4wXU3BLc/4Y=
+
+Name: assets/www/recipes/fruit and yogurt pie.JPG
+SHA1-Digest: z9zvtM+VuAizZxPwGbcRcrJ9Ogc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: x+SC07Bz1f/vmALBlWr4bTtMcg8=
+
+Name: assets/www/recipes/Banana Pie Slide.JPG
+SHA1-Digest: U8RYL62CAElRImrg7lcT9xBxz00=
+
+Name: assets/www/recipes/ricura de pollo.jpg
+SHA1-Digest: 01ehSyQBz0rKpg+ppJg2cAZKvi4=
+
+Name: assets/www/recipes/almond legend cake.jpg
+SHA1-Digest: nTnlO0yzcjeREZo7gJeYElVUiWo=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_czech.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: assets/www/recipes/zity pasta.JPG
+SHA1-Digest: LDnXS2HFuohp/Gp3q/tb+yeunXs=
+
+Name: assets/www/recipes/majarete.JPG
+SHA1-Digest: WuS4MFv3Ym+tlgTF5HVKXoDnxc4=
+
+Name: assets/www/recipes/Stewed meat.jpg
+SHA1-Digest: ElMO980LEpw7xRmXnwzPt8H+t+s=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_romanian.txt
+SHA1-Digest: 9XU05+EK41PC/HwRw9zxny5awCw=
+
+Name: assets/www/recipes/chicken cajio.JPG
+SHA1-Digest: B4CGIhUiBrrV1vZzetH7nJy3b24=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_portuguese.txt
+SHA1-Digest: 2tGtdUrB2oruPbgFAC1SD4R2Mn0=
+
+Name: assets/www/recipes/magi coconout cake.jpg
+SHA1-Digest: zwVnNVuUl8PVWISSzjtIT/IanZs=
+
+Name: assets/www/recipes/corn bread.JPG
+SHA1-Digest: tUovj3/JDjWZPCqAZly25l0c8+4=
+
+Name: assets/www/js/lib.js
+SHA1-Digest: aLyMXDZDTo/oJdIE3r2gm15ftNw=
+
+Name: assets/www/recipes/Almond Chicken.JPG
+SHA1-Digest: lANRIdbn5iqJ6wOgDw0JggP6Dz0=
+
+Name: assets/www/recipes/cuaban tamale.JPG
+SHA1-Digest: Xy7taLi3C1XNnh5wJ+N5G5Bt4xk=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_portuguese.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_dutch.txt
+SHA1-Digest: ubXAOlBgTG6cluGh9Yg9omLd9gY=
+
+Name: assets/www/recipes/Confetti salad.JPG
+SHA1-Digest: MSJJKnsn/McGlGqvyACy9dGdLfA=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_common.txt
+SHA1-Digest: padRPYJ0BaElGjLugFZoVeiaNRQ=
+
+Name: assets/www/recipes/breakfast casserole.JPG
+SHA1-Digest: Lr/rG0ZifZ06+8/5qwt+KBHmOCc=
+
+Name: assets/www/recipes/arroz salvage.jpg
+SHA1-Digest: /pOxy+OfolEZSUDUK9y1SSn3VCU=
+
+Name: assets/www/recipes/BBQ pork ribs.JPG
+SHA1-Digest: zEkHCizRAfPr48A1hr5GTmxCjZQ=
+
+Name: assets/www/img/search-ltr.png
+SHA1-Digest: 0lqXADOsL4Loys2KQOWyDKFlw0A=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_spanish.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_german.txt
+SHA1-Digest: ASWiPOCybslDsqdqSYrJCczwNBA=
+
+Name: assets/www/recipes/Chicken Soup.JPG
+SHA1-Digest: KXOl3zpuR5zwgnJl4SAz4J+K2lc=
+
+Name: org/apache/commons/codec/language/bm/gen_hebrew_common.txt
+SHA1-Digest: U+3sGtHvTz+ZqpSe1f7MYHB2TsQ=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_romanian.txt
+SHA1-Digest: h57+YZWPX1cnEcSdoXhfGLuta3s=
+
+Name: assets/www/recipes/roast chicken.jpg
+SHA1-Digest: MbhtDG7yZEI7ezOtXNQbnuDVFqs=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_dutch.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: assets/www/recipes/my healthy flan.jpg
+SHA1-Digest: XhR4ierJNBgSDULHYkM65CKFGcU=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_french.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/res/screen/android/screen-xhdpi-portrait.png
+SHA1-Digest: vW5tKLzmwECrECLiW33PYhfp+mw=
+
+Name: assets/www/recipes/summer salad.jpg
+SHA1-Digest: IrZ7RtseirJqrGm2AqrJelB01oU=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE
+SHA1-Digest: RytFXTsJ+13ad9mFrElp/Si5Hws=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_italian.txt
+SHA1-Digest: sQ1CrX8M+aYXtqb+FaAQJlodnx0=
+
+Name: assets/www/recipes/sauce wrap.jpg
+SHA1-Digest: MwcRIf/xreJFp3lm0wSNnHhXiLU=
+
+Name: assets/www/recipes/trycolor.salad.full.jpg
+SHA1-Digest: kfNrkW0Ox07JluAXldx/oHp0sVw=
+
+Name: assets/www/recipes/plantain fufu.jpg
+SHA1-Digest: fXpuMztqcxER72wECVooqlXkujs=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile-1.2.0.css
+SHA1-Digest: BAZXzRw0URW1UXMQD+d1wtjONXE=
+
+Name: assets/www/recipes/choco flan.JPG
+SHA1-Digest: /seRDsz2HV5EOSHYyrlnCXG9UyE=
+
+Name: assets/www/recipes/potato tambor.jpg
+SHA1-Digest: d7pHLS3bYl28AirFgSNV8wmwTpU=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_common.txt
+SHA1-Digest: yMn8iqUiPF5RM7J9xhj6gb3A6E4=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile-1.2.0.min.css
+SHA1-Digest: qEbEtJzSHpOZErYdcmqCGeHqBFI=
+
+Name: assets/www/recipes/pork stir fry.JPG
+SHA1-Digest: Xfb1la6i620Y47Vm3beCfzeU/l8=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_czech.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/papas rellenas.JPG
+SHA1-Digest: YMiXhyhb5QMPK5+lq1EtspDefN4=
+
+Name: assets/www/recipes/cod crokettes.JPG
+SHA1-Digest: xfE8Scjva9ooJfmcAn1iDG97TCs=
+
+Name: assets/www/css/index.css
+SHA1-Digest: JLukqMgXEyTfx2Hy6Bq6GLjhIRg=
+
+Name: assets/www/recipes/potato salad.jpeg
+SHA1-Digest: ZMOtgEZx3MRhCyxHTr9Wr3wcFr4=
+
+Name: resources.arsc
+SHA1-Digest: nyITrB/qB2lEkEgcoNp50o60blo=
+
+Name: assets/www/recipes/Rice with Cheese Slide.JPG
+SHA1-Digest: dkgVp5hqqpDWbUmXIjnAQgYF7qk=
+
+Name: assets/www/recipes/pumpkin bread.jpg
+SHA1-Digest: cntH3VLUMrX1azHj/c9otsHXkOE=
+
+Name: assets/www/recipes/devil egs.JPG
+SHA1-Digest: sXMa7QEMb8kKlgnaUTAs0DVDpAY=
+
+Name: assets/www/img/no-picture.png
+SHA1-Digest: lUFF5cTq3yyjDBgqGSEjejY5drY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Sfq6hmqlaf5yIJGwgbAbf9+eT8U=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: j1Nu9nsLMo08E7/uqTpWXQfBdDw=
+
+Name: org/apache/commons/codec/language/bm/gen_languages.txt
+SHA1-Digest: Wd+YcHRM0F23bj/qZsPhOjYOa+4=
+
+Name: assets/www/recipes/Spring Stew.JPG
+SHA1-Digest: gyFSYk0DRG/D8InCG3qgwW7/kq0=
+
+Name: assets/www/res/screen/android/screen-mdpi-landscape.png
+SHA1-Digest: 2i+BuSh5+yrMfpP1R3W/V+agJdE=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_spanish.txt
+SHA1-Digest: uTGxICniFcGE+85pnK+pGH1Xzt8=
+
+Name: assets/www/js/data.js
+SHA1-Digest: Do40PZrfSr7rbm3AXpKnBOXDf0E=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_approx_common.txt
+SHA1-Digest: Hxjkq50d1HJRTfhnGsjVmtUwQ38=
+
+Name: assets/www/recipes/calas.JPG
+SHA1-Digest: XDCHEwZAm6kBEVISsNcXEhPgpyU=
+
+Name: assets/www/recipes/crispy chicken breast.jpg
+SHA1-Digest: VBv8nAT6FnFpmL48Hb3Cd6OisEY=
+
+Name: org/apache/commons/codec/language/bm/sep_languages.txt
+SHA1-Digest: N9Nby7yZl/CNB4XLYMOy4NPkDns=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_portuguese.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_french.txt
+SHA1-Digest: fG8iHIY7dmE+dzMnRN1V8U+CAWs=
+
+Name: assets/www/recipes/filled vegetable pears.JPG
+SHA1-Digest: jyGcs2mVzJNrEPqtj9HO2/hzK1g=
+
+Name: assets/www/recipes/beef with chimichurri sauce.JPG
+SHA1-Digest: gdjsxYaSrIN3PU+zOgO8LhqxJC8=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt
+SHA1-Digest: Yg5q1pDwdRE2199a3lBn//aVSZ0=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hebrew.txt
+SHA1-Digest: 1d23tX+8Zs6txZql1HQugopK6Dw=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt
+SHA1-Digest: T3Kwm8H/aw/kkF6SaYfagX9J1mw=
+
+Name: assets/www/res/screen/android/screen-mdpi-portrait.png
+SHA1-Digest: sxAwXdVywEzRhoLTIW6klU4WHHE=
+
+Name: assets/www/recipes/chicken and brocoly macarroni.jpg
+SHA1-Digest: bEF20zAkrj93SRfBog4SabeUMds=
+
+Name: classes.dex
+SHA1-Digest: hS4FkVIM8JAhhBz1Dx4lxpWwozA=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_czech.txt
+SHA1-Digest: iPK8bJaVzSZc5K5rvtJ99cdrL3g=
+
+Name: assets/www/recipes/vanilla volcano.JPG
+SHA1-Digest: uqI+H6sbXSyWHBYH4jCGMLe7S9k=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_turkish.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_spanish.txt
+SHA1-Digest: jxaPlVZm4rC0Egc7UWeCEFaLVsQ=
+
+Name: res/drawable/icon.png
+SHA1-Digest: R0gqW6JU7mEsHrcjEEvtxome4a0=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine.css
+SHA1-Digest: DjIgU9kCSPAtc8h6KJIq1kR9aaU=
+
+Name: assets/www/res/icon/android/icon-72-hdpi.png
+SHA1-Digest: +vxYgeZ9DWnAbPSMIuW5lmQ2s3Y=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_spanish.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: assets/www/recipes/lassagna rustica.JPG
+SHA1-Digest: imeyQQrsVTAglRf3TJucVChLYzQ=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile-1.2.0.min.js
+SHA1-Digest: UHVoj2FLi202Gf3lAE8NJO+vZ7g=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_french.txt
+SHA1-Digest: o5S4BN9+movhRfKv/CPmwVWMk0s=
+
+Name: assets/www/recipes/pizza sticks.jpg
+SHA1-Digest: BGRMHEI08YQ9KpbIKe257DewdTc=
+
+Name: assets/www/recipes/Apricot Glazed Pork Roast.JPG
+SHA1-Digest: EM4UNkkYEAXXdkF4OloU9x04RIE=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_common.txt
+SHA1-Digest: LdAHq1Uf7ZJObFLplHkMBg62o8g=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt
+SHA1-Digest: epTnnPkJV3kP2U6NeMgMH2hMESs=
+
+Name: assets/www/recipes/corned beef.jpg
+SHA1-Digest: HGQlryYUFZELah7UW8g298oYcuw=
+
+Name: assets/www/img/mirta.png
+SHA1-Digest: It2j3QfKvu6dPv+IiNY3jccP9S4=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hungarian.txt
+SHA1-Digest: 604dJC1I4/8Oy3q/B/iDaSTWh7Y=
+
+Name: assets/www/recipes/Apple Cake.JPG
+SHA1-Digest: EB2Ncrkhh9Y2Fr5EzQT3krsqmDQ=
+
+Name: assets/www/recipes/fried rice.jpg
+SHA1-Digest: KYw6ELxt0sJMvHM591hz2WYnCfg=
+
+Name: assets/www/recipes/magy pastries.JPG
+SHA1-Digest: RTKSkuzhdHKsV0EPU2YNqL4Qjms=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_any.txt
+SHA1-Digest: s7KvcfwD+yZtsux5sF8HC7SSwKw=
+
+Name: assets/www/recipes/croketas.jpg
+SHA1-Digest: XwATWBzMwH9+9RcZKUuPG0jYK1s=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_any.txt
+SHA1-Digest: vokBnqDrzgh7ubmg4N5ltqYJsgY=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: RA8BpKFXzQ93fNhdLHtr3+/8hGU=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_portuguese.txt
+SHA1-Digest: wGpv/4nTHPd+c4HkTvDnN2PUYOU=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_portuguese.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/Chick Pea Casserolle.JPG
+SHA1-Digest: Y+WDYglUURmKVecWV3u3D6cXIAA=
+
+Name: assets/www/recipes/tentation plantain.JPG
+SHA1-Digest: yAvlEmAdHsoI3c1XhrDJVXt5k8o=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hungarian.txt
+SHA1-Digest: KxrQuSBewEePK/XN5khH0PWw7yE=
+
+Name: assets/www/spec.html
+SHA1-Digest: w9/CYecDvknKKoNiJLCH7FPL7vw=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_french.txt
+SHA1-Digest: CrDzmQQb/nDj6G9KGuej8e+uHIU=
+
+Name: assets/www/recipes/angel cake.JPG
+SHA1-Digest: xt0LtnE2wV1E91Bcr/YdZD/75AI=
+
+Name: assets/www/recipes/spice rice.JPG
+SHA1-Digest: TCv8ga8uxT/NCvV74wm1zxb3bug=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_italian.txt
+SHA1-Digest: fpEQsllQFifzCfJ/dp1xEwvBVdg=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hungarian.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: assets/www/recipes/crispy chicken strips.JPG
+SHA1-Digest: EgMcBtOOc25MGkyQT/b+T3GZxGY=
+
+Name: assets/www/recipes/fried malanga.JPG
+SHA1-Digest: ZH+mYb+xc2gEsY+cxVUzh4kobYE=
+
+Name: assets/www/res/icon/android/icon-96-xhdpi.png
+SHA1-Digest: hzckMBuySFo1cd7HjUP48B41ud0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_romanian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/tostones.JPG
+SHA1-Digest: 8lSdZelqLTBnwYdmfnipnT/4u2I=
+
+Name: assets/www/recipes/imperial rice.JPG
+SHA1-Digest: Ym3DIZNbYfeMiy/sWlLExPSSneE=
+
+Name: assets/www/js/index.js
+SHA1-Digest: 9oZFrmDtZScSYzotCFl19Ws9RRk=
+
+Name: assets/www/img/icon-lite.png
+SHA1-Digest: 0xKn1K/dXu0tZLxQabaGP34u8rM=
+
+Name: assets/www/recipes/parsley potato.JPG
+SHA1-Digest: E2y4TUL6bGE6guMa484EVyWPHk0=
+
+Name: res/layout/main.xml
+SHA1-Digest: SzK9qMhKRjww9uIS8MVb3BGOirs=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_romanian.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: assets/www/recipes/coconutcake.jpg
+SHA1-Digest: OH55/A3pFHR+b2dzfbSUO0wo2U8=
+
+Name: assets/www/recipes/casserole beef.jpg
+SHA1-Digest: PMtkEOtZaVdAveWM26X8ZsMKIw4=
+
+Name: assets/www/index.html
+SHA1-Digest: 75hT8cR7HNS/R72zQiXcOtQ3ub4=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: org/apache/commons/codec/language/bm/ash_hebrew_common.txt
+SHA1-Digest: lhqN1L0rc6oqNcToAM5w5eXc69k=
+
+Name: assets/www/spec/helper.js
+SHA1-Digest: y5Tfxnsc7GA289HJFXCZED1R5eE=
+
+Name: assets/www/recipes/zisti pasta.jpg
+SHA1-Digest: HjL8dJiIraQlFDZFCSwT0jpSkHE=
+
+Name: assets/www/res/icon/android/icon-36-ldpi.png
+SHA1-Digest: XTzlY9RiHgdmc46DOXda0FCKGGg=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_italian.txt
+SHA1-Digest: 4OtvhiYVCX6Pngy4UP1SKrIDoro=
+
+Name: assets/www/recipes/Mashed potatoes and cheese.jpg
+SHA1-Digest: htLQ4hR4cSiZ3KbUOQLseP7tRoo=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_italian.txt
+SHA1-Digest: kpJ0pEDOyFBEu6wl4QdynsUq6jE=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile-1.2.0.js
+SHA1-Digest: Y0UmP6S/hQsqa/gCfQuOTC1isYA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hungarian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/js/jquery.mobile/images/ajax-loader.gif
+SHA1-Digest: r7Wo1RXseyxOXYv8y0kPtbYDEcM=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_arabic.txt
+SHA1-Digest: yt4PLY35eX3omtnfi8cYJAdUwDA=
+
+Name: assets/www/recipes/red beans soup.JPG
+SHA1-Digest: KSXKVC+rYJWHlBJ8u1gvyIXj2Lo=
+
+Name: assets/www/js/jquery.mobile/jquery.mobile.theme-1.2.0.css
+SHA1-Digest: f41QMlJ9YEf/hpiWEzpY2NlMYGw=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/www/recipes/cold salad.jpg
+SHA1-Digest: Ei+BztHX2adLheB/08EwgIiG9Pc=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt
+SHA1-Digest: EsR+HI42mjkQMSRBChc6UJMNHnk=
+
+Name: assets/www/recipes/yogurt potato salad.JPG
+SHA1-Digest: G7q6inRB8wCjDwfXddR4IwjkIXQ=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: R0gqW6JU7mEsHrcjEEvtxome4a0=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_polish.txt
+SHA1-Digest: e4PksIbpzRqmyfXiE+gxLVhuVNA=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hungarian.txt
+SHA1-Digest: w312gpWjUSsWx0VAK7N26JpOv3E=
+
+Name: assets/www/js/jquery.mobile/images/icons-18-white.png
+SHA1-Digest: Sg/1e3EgtouxOiw7H+43z5uv5Xo=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_spanish.txt
+SHA1-Digest: wGpv/4nTHPd+c4HkTvDnN2PUYOU=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_polish.txt
+SHA1-Digest: d7PswPXB40uZY4D8wXcuG7osFGk=
+
+Name: assets/www/res/screen/android/screen-hdpi-portrait.png
+SHA1-Digest: hdNy25L5Fo+YqN+gbm9qeyP61KA=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_german.txt
+SHA1-Digest: w4DMVKfl4a7tpge4d91vRsE09Uc=
+
+Name: assets/www/recipes/chocolate berry cake.jpg
+SHA1-Digest: ZbGzhuB1/PHvJ/9N6SC+HcHmnBs=
+
+Name: assets/www/recipes/fried pork chops.JPG
+SHA1-Digest: 9LAHdwbZ85YmMxnlHYWSQSM1zHA=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_spanish.txt
+SHA1-Digest: 604dJC1I4/8Oy3q/B/iDaSTWh7Y=
+
+Name: assets/www/recipes/Mango Cake.JPG
+SHA1-Digest: KoZTRFN2ELckFCyICFWkI9ZCLrc=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_spanish.txt
+SHA1-Digest: T+njbAJy1Bqc9+cbiIJMwcI9HrU=
+
+Name: assets/www/recipes/reamy cheese pie - slide.JPG
+SHA1-Digest: sinyKqJGXtJOL1KkWDYyWU/KTSM=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js
+SHA1-Digest: HQvXPy78BuOZPFGkxsNvRiBM4YA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_common.txt
+SHA1-Digest: u/mGD68aVPmhFiWBCiQdju9UoVw=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_polish.txt
+SHA1-Digest: bnV3hR/TM8/nCLUXvfXHWUmvShI=
+
+Name: assets/www/recipes/gorillabread.jpg
+SHA1-Digest: L3oO1z5AoOueaWEIjnPKyAcyQSA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_arabic.txt
+SHA1-Digest: 6qj8otnCUSRgzzY1XsPSLprI8l4=
+

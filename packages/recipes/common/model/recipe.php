@@ -1,0 +1,29 @@
+<?php
+class recipe extends ODBObject{
+     var $name = ODB_TYPE_STRING;
+     var $description = ODB_TYPE_STRING;
+     var $preparationmode = ODB_TYPE_STRING;
+     var $numberofguests = ODB_TYPE_STRING;
+     var $prepareinfamily = ODB_TYPE_STRING;
+     var $secretoffamily = ODB_TYPE_STRING;
+     var $peoplelike = ODB_TYPE_STRING;
+     var $peopleunlike = ODB_TYPE_STRING;
+     var $viewamount = ODB_TYPE_STRING;
+     var $nationality = ODB_TYPE_STRING;
+     var $diet = ODB_TYPE_STRING;
+     var $preparationtype = ODB_TYPE_STRING;
+     var $foodtype = ODB_TYPE_STRING;
+     var $occasion = ODB_TYPE_STRING;
+     var $cookingtime = ODB_TYPE_NUMERIC;
+     var $picture = ODB_TYPE_STRING;
+     var $inserteddate = ODB_TYPE_STRING;
+     var $keywords = ODB_TYPE_STRING;
+     var $history_revised = ODB_TYPE_STRING;
+     var $history_written = ODB_TYPE_STRING;
+     var $in_catalog = ODB_TYPE_STRING;
+     var $backlinks = ODB_TYPE_STRING;
+     var $campaing = ODB_TYPE_STRING;
+     var $to_sell = ODB_TYPE_STRING;
+     static $without_id = true; 
+}
+// End of file
